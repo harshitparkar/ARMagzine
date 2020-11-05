@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Page-23" size="400.000000 528.925598" />
+    <ImageTarget name="Page-22" size="400.000000 528.925598" />
+    <ImageTarget name="Page-21" size="400.000000 528.925598" />
+    <ImageTarget name="Page-18" size="400.000000 543.293701" />
+    <ImageTarget name="Page-16" size="400.000000 540.540527" />
+    <ImageTarget name="Page-15" size="400.000000 518.638550" />
+    <ImageTarget name="Page-14" size="400.000000 528.925598" />
+    <ImageTarget name="Page-13" size="400.000000 514.469482" />
+    <ImageTarget name="Page-12" size="400.000000 500.000000" />
+    <ImageTarget name="Page-11" size="400.000000 540.540527" />
+    <ImageTarget name="Page-10" size="400.000000 562.390137" />
+    <ImageTarget name="Page-9" size="400.000000 544.217712" />
+    <ImageTarget name="Page-7" size="400.000000 528.925598" />
+    <ImageTarget name="Page-6" size="400.000000 528.925598" />
+    <ImageTarget name="Page-5" size="400.000000 528.925598" />
+    <ImageTarget name="Page-3" size="400.000000 528.925598" />
+    <ImageTarget name="Page-2" size="400.000000 528.925598" />
+    <ImageTarget name="Page-1" size="400.000000 526.315796" />
+  </Tracking>
+</QCARConfig>
